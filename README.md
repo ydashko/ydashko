@@ -8,7 +8,7 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
+**Frontend Development:** `React.js` `React Native` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
  
 **Version Control:** `Git` 
 
