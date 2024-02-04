@@ -16,7 +16,7 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
 
 **Testing:** 
 
-**Others:** 
+**Others:** `Scrum` `Jira`
  
 ## ✨ Fun Facts 
 
