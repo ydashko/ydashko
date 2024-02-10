@@ -10,7 +10,7 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
 
 **Frontend Development:** `React.js` `React Native` `TypeScript` `JavaScript` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
  
-**Version Control:** `Git` 
+**Version Control:** `Git` ``
 
 **Backend Development:** 
 
