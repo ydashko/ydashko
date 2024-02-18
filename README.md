@@ -28,3 +28,10 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
 
  For a quick response, DM me on [Instagram]() or [LinkedIn](). 
 
+## To Do
+
+fb menu
+paralllax
+cards
+slider
+aligator.reverse enginiering
