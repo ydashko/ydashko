@@ -30,8 +30,8 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
 
 ## To Do
 
-fb menu
-paralllax
-cards
-slider
-
+-fb menu
+-paralllax
+-cards
+-slider
+-next.js task
