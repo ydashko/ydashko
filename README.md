@@ -35,3 +35,7 @@ I'm a 23-year-old developer based in Ukraine, and I'm passionate about crafting 
 -cards
 -slider
 -next.js task
+-vue
+
+
+-nuxt
