@@ -35,3 +35,4 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 -slider
 -next.js task
 -vue -nuxt
+-react -next
