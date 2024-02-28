@@ -32,7 +32,6 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 -fb menu
 -paralllax
--cards
 -slider
 -next.js task
 -vue -nuxt
