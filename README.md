@@ -2,7 +2,7 @@
 
 I'm a frontend developer based in Ukraine, and I'm passionate about crafting digital experiences. 
 
-- Check out my [website]() to learn more about me.
+- Check out my [website/businesscard]() to learn more about me.
 - Stay updated with my [LinkedIn]().
 - I share my learnings and tips to become a better frontend developer.
  
