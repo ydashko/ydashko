@@ -39,3 +39,4 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 
 -some cards (optional)
+-beer ice-cream
