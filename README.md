@@ -36,3 +36,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 -next.js task
 -vue -nuxt
 -react -next
+
+
+-some cards (optional)
+-beer, ice-cream css animations do task
