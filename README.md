@@ -8,7 +8,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React.js` `React Native` `TypeScript` `JavaScript` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
+**Frontend Development:**  `React.js` `React Native` `TypeScript` `JavaScript` `CSS` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
  
 **Version Control:** `Git` ``
 
