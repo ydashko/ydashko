@@ -26,7 +26,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram]() or [LinkedIn](). 
+ For a quick response, DM me on [Instagram]() or [LinkedIn]() . 
 
 ## To Do
 
