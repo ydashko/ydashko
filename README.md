@@ -41,5 +41,4 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 -some cards (optional)
 -beer ice-cream -scalemodel shop landing
 -5 landings few small projects
--to do app made with vue
--bun
+-or some folders
