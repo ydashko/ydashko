@@ -10,7 +10,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 **Frontend Development:**  `React.js` `React Native` `TypeScript` `JavaScript` `CSS and preprocessors` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
  
-**Version Control:** `Git` 
+**Version Control:** `Git`
 
 **Backend Development:** 
 
