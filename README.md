@@ -42,3 +42,8 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 -5 landings few small projects
 
 
+
+
+
+
+figma
