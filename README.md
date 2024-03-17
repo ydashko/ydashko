@@ -41,6 +41,4 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 -beer ice-cream -scalemodel shop landing
 -5 landings few small projects
 
--folders of components
--js book
 
