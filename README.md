@@ -27,6 +27,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 ## 📫 Contact
 
  For a quick response, DM me on [Instagram]() or [LinkedIn]().
+ some css styled cards or businesscard variant
 
 ## To Do
 
