@@ -47,4 +47,4 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 
 
-figma found few good pages(already in drafts)
+figma found few good pages
