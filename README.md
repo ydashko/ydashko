@@ -31,20 +31,6 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 ## To Do
 
--fb menu
--paralllax
--slider
--next.js task
--vue -nuxt
--react -next
+## Projects
 
--some cards (optional)
--beer ice-cream -scalemodel shop landing
--5 landings few small projects
-
-
-
-
-
-
-figma found few good pages
+[Design]() [Check case]()
