@@ -41,3 +41,5 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 [Design]() [Check case]()
 [Design]() [Check case]() <br>
 [Design]() [Check case]()
+
+Try more minimalistic template only with techs
