@@ -53,5 +53,3 @@ Try more minimalistic template only with techs
 
 
 
-
-
