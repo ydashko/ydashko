@@ -32,7 +32,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 
 
-## Projects react/vue
+## Projects
 
 [Design]() [Check case]() <br>
 [Design]() [Check case]() <br>
