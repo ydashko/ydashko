@@ -32,7 +32,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 
 
-## Projects
+## Projects react/vue
 
 [Design]() [Check case]() <br>
 [Design]() [Check case]() <br>
@@ -44,7 +44,7 @@ Try more minimalistic template only with techs
 
 
 
-react/vue
+
 
 
 
