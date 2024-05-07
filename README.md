@@ -6,7 +6,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 - Stay updated with my [LinkedIn]().
 - I share my learnings and tips to become a better frontend developer.
  
-## 📦 Toolbox
+## 📦 Toolboxe
 
 **Frontend Development:**  `React.js` `React Native` `TypeScript` `JavaScript` `CSS and preprocessors` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma`
  
