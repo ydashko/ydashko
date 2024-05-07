@@ -18,7 +18,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 **Others:** `Agile` `Scrum` `Jira`
  
-## ✨ Fun Facts 
+## ✨ Fun Facts
 
 - I like RTS games.
 - As a student, I participated in English competitions and won top places.
@@ -42,7 +42,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 Try more minimalistic template only with techs
 
-canvas
+
 
 
 
