@@ -14,9 +14,9 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 **Backend Development:** 
 
-**Testing:** `Mocha` `Jest` `Cypress` 
+**Testing:** `Mocha` `Jest` `Cypress`
 
-**Others:** `Agile` `Scrum` `Jira` 
+**Others:** `Agile` `Scrum` `Jira`
  
 ## ✨ Fun Facts 
 
