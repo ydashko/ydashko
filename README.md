@@ -46,16 +46,4 @@ canvas
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 upload cv
