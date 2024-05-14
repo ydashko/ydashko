@@ -9,7 +9,7 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
  
 **Version Control:** `Git` `GitHub`
 
-**Backend Development:** 'Python'
+**Backend Development:** 
 
 **Testing:** `Mocha` `Jest` `Cypress`
 
