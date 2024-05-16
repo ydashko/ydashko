@@ -23,10 +23,16 @@ I'm a frontend developer based in Ukraine, and I'm passionate about crafting dig
 
 ##  Projects
 
-[Design]() [Check case]() <br>
-                [Design]() [Check case]() <br>
+[Design]() [Check case]() <br> React proj shop
+                [Design]() [Check case]() <br> Vue
+landing 
+Next
+NUxt
 
 
+
+
+landing
 
 
 
