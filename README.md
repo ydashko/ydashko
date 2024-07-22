@@ -1,34 +1,13 @@
-### Hey, I'm Yaroslav 👋  
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm a frontend developer based in Ukraine, and I'm passionate about crafting digital experiences. 
+I'm [**Yaroslav**](), a software engineer based in Ukraine.
 
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-## 📦 Toolbox
-
-**Frontend Development:**  `React.js` `React Native` `TypeScript` `JavaScript` `CSS and preprocessors` `Bootstrap` `Tailwind` `Material-UI` `Framer-Motion` `Bulma` `Vue` `Vite` `Next.js` `Nuxt.js` `webg3`
- 
-**Version Control:** `Git` `GitHub`
-
-**Backend Development:** `Node.js`
-
-**Testing:** `Mocha` `Jest` `Cypress`
-
-**Others:** `Agile` `Scrum` `Jira`
- 
-## ✨ Fun Facts
-
-- I like RTS games.
-- As a student, I participated in English competitions and won top places.
-- I have a DMD in dentistry.
-
-##  Projects
-
-[Design]() [Check case]() <br>
-[Design]() [Check case]() <br>
+Outside of work, I'm interested in furthering my knowledge in the tech world. I also try new tools,frameworks etc.
 
 
-
-
-
-
-
+#### Additional Facts:
+- I have a degree in dentistry.
+- I prefer RTS.
+- I am a swimmer with 7 years of experience.
