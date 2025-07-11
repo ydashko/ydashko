@@ -21,7 +21,7 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,kubernetes,docker,c,vim,babel,bash,bootstrap,css,cypress,discord,express,figma,git,github,gulp,html.js,jest,linkedin,materialui,nextjs,nodejs,npm,notion,obsidian,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,kubernetes,docker,c,vim,babel,bash,bootstrap,css,cypress,discord,express,figma,git,github,gulp,html,js,jest,linkedin,materialui,nextjs,nodejs,npm,notion,obsidian,&perline=5" />
   </a>
 </p>
 
