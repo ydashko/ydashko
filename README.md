@@ -26,8 +26,8 @@ Outside of work, I do sports, figure painting and read tech literature.
 ## 📈 Stats (for those who care)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ydashko&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydashko&theme=transparent" width="48%" />
 </p>
 
 ---
