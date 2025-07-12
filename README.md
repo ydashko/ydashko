@@ -27,7 +27,7 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,&perline=2" />
+    <img src="https://skillicons.dev/icons?i=netlify,vercel&perline=2" />
   </a>
 </p>
 
