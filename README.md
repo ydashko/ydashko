@@ -20,7 +20,7 @@ Outside of work, I do sports, figure painting and read tech literature.
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,figma,gmail,html,js,jest,cypress,&perline=3" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,gmail&perline=3" />
   </a>
 </p>
 
