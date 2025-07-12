@@ -18,15 +18,28 @@ Outside of work, I do sports, figure painting and read tech literature.
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,gmail&perline=3" />
+    <img src="https://skillicons.dev/icons?i=nodejs&perline=1" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,jest,cypress,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,&perline=2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=obsidian,figma,notion&perline=3" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,jest,cypress,vitest&perline=4" />
   </a>
 </p>
 
