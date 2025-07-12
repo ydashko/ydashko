@@ -33,31 +33,25 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=obsidian,figma,notion&perline=3" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,jest,cypress,vitest&perline=4" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs&perline=8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,bootstrap,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,bootstrap,tailwind,obsidian,notion&perline=8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bash,git,github,npm,vite,yarn&perline=7" />
+    <img src="https://skillicons.dev/icons?i=babel,bash,git,github,npm,vite,yarn,figma&perline=8" />
   </a>
 </p>
 
