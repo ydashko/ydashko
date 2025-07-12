@@ -9,7 +9,7 @@ I build things for the web. Sometimes they even work.
 ## 🧩 About Me
 
 - **Frontend Developer** with an eye for detail and a soft spot for clean UI
-- Currently exploring: **[Next.js, Node.js, React Native]**
+- Currently exploring: **Next.js, Node.js, React Native**
 - Interested in: **Web performance, figure painting, sports. reading, rts games**
 - Occasionally: **Overengineer things for fun**
 - Fun fact: **I write better code after coffee but don't drink coffee**
@@ -18,12 +18,36 @@ Outside of work, I do sports, figure painting and read tech literature.
 ---
 
 ## 🛠 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,discord,figma,gmail,html,js,jest,cypress,&perline=3" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,kubernetes,docker,c,vim,babel,bash,bootstrap,css,cypress,discord,express,figma,git,github,gulp,html,js,jest,linkedin,materialui,nextjs,nodejs,npm,notion,obsidian,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,jest,cypress,&perline=4" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,materialui,bootstrap,tailwind&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,bash,git,github,npm,vite,yarn&perline=7" />
+  </a>
+</p>
+
 
 ---
 
