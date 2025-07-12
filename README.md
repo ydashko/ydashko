@@ -21,25 +21,7 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs&perline=1" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel&perline=2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,jest,cypress,vitest&perline=4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,jest,cypress&perline=8" />
   </a>
 </p>
 
