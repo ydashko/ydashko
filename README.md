@@ -55,5 +55,3 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 ---
 
-<sub>⚠️ Perfection not guaranteed. Some ideas may still be compiling.</sub>
-
