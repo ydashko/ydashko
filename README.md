@@ -40,18 +40,3 @@ Outside of work, I do sports, figure painting and read tech literature.
 
 ---
 
-## 🚀 Selected Projects
-
-- [**Project A**](https://github.com/YourUsername/ProjectA) — A solution looking for a problem.
-- [**Project B**](https://github.com/YourUsername/ProjectB) — Work in progress. Like most things in tech.
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:youremail@example.com)
-
----
-
