@@ -12,8 +12,7 @@ I build things for the web. Sometimes they even work.
 - Currently exploring: **Next.js, Node.js, React Native**
 - Interested in: **Web performance, figure painting, sports. reading, rts games**
 - Occasionally: **Overengineer things for fun**
-- Fun fact: **I write better code after coffee but don't drink coffee**
-Outside of work, I do sports, figure painting and read tech literature.
+- Additional fact: **Outside of work, I do sports, figure painting and read tech literature**
 
 ---
 
