@@ -25,13 +25,6 @@ Outside of work, I do sports, figure painting and read tech literature.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bash,git,github,npm,vite,yarn,figma,obsidian,notion&perline=8" />
-  </a>
-</p>
-
-
 ---
 
 
