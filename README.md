@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Yaroslav**, a software engineer based in Bulgaria.
+I'm **Yaroslav**, a software engineer based in Hungury.
 
 I build things for the web. Sometimes they even work.
 
