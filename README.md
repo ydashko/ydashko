@@ -8,7 +8,7 @@ I build things for the web. Sometimes they even work.
 
 ## 🧩 About Me
 
-- **Frontend Developer** with an eye for detail and a soft spot for clean UI
+- **Frontend Developer** with Degree in Dentistry.
 - Currently exploring: **Next.js, Node.js, React Native**
 - Interested in: **Web performance, figure painting, sports. reading, rts games**
 - Occasionally: **Overengineer things for fun**
