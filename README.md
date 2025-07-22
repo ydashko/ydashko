@@ -26,5 +26,3 @@ I build things for the web. Sometimes they even work.
 
 ---
 
-
-
