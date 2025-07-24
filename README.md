@@ -14,10 +14,10 @@ I build things for the web. Sometimes they even work.
 - Additional facts: **Outside of work, I do sports, figure painting and read tech literature**
 ---
 ## 🛠 Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,jest,cypress,html,css,sass,less,materialui,bootstrap,tailwind,babel,bash,git,github,vite,vitest,npm,yarn,figma,obsidian,notion,discord,vscode" />
   </a>
 </p>
+
 ---
