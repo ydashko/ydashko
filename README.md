@@ -12,9 +12,7 @@ I build things for the web. Sometimes they even work.
 - Currently exploring: **Next.js, Node.js, React Native**
 
 - Additional facts: **Outside of work, I do sports, figure painting and read tech literature**
-
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -22,6 +20,4 @@ I build things for the web. Sometimes they even work.
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,jest,cypress,html,css,sass,less,materialui,bootstrap,tailwind,babel,bash,git,github,vite,vitest,npm,yarn,figma,obsidian,notion,discord,vscode" />
   </a>
 </p>
-
 ---
-
