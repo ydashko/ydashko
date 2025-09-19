@@ -8,7 +8,7 @@ I build things for the web. Sometimes they even work.
 ## 👨🏻‍💼  About Me
 
 - **Frontend Developer** with Degree in Dentistry.
-- Currently exploring: **Next.js, Node.js, React Native**
+- Currently exploring: **Next.js, Node.js, React Native**.
 - Additional facts: **Outside of work, I do sports, figure painting and read tech literature**
   
 ---
