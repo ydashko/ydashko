@@ -20,4 +20,12 @@ I build things for the web.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,python,docker,django,fastapi" />
+  </a>
+</p>
+
+
+
 ---
