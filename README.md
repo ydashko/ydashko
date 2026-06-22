@@ -8,7 +8,7 @@ I build things for the web.
 ## 👨🏻‍💼  About Me
 
 - **Frontend Developer** with Degree in Dentistry.
-- Currently exploring: **Python, SQL, DjangoORM, Django, Django RESt Framework, FastAPI, SQLAlchemy**.
+- Currently exploring: **Python, SQL, DjangoORM, Django, Django REST Framework, FastAPI, SQLAlchemy**.
 - Additional facts: **I do figure painting**.
   
 ---
