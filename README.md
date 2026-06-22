@@ -19,4 +19,5 @@ I build things for the web.
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind" />
   </a>
 </p>
+
 ---
