@@ -16,13 +16,7 @@ I build things for the web.
 ## 🧰  Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,jest,cypress,html,css,sass,less,materialui,bootstrap,tailwind,babel,bash,git,github,vite,vitest,npm,yarn,figma,obsidian,notion,discord,vscode" />
-  </a>
-</p>
-
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind" />
   </a>
 </p>
 ---
