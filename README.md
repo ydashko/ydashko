@@ -19,5 +19,5 @@ I build things for the web.
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,jest,cypress,html,css,sass,less,materialui,bootstrap,tailwind,babel,bash,git,github,vite,vitest,npm,yarn,figma,obsidian,notion,discord,vscode" />
   </a>
 </p>
-
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
