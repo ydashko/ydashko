@@ -17,15 +17,9 @@ I build things for the web.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind" />
+    
+    <img src="https://skillicons.dev/icons?i=mysql,python,django,fastapi" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,python,docker,django,fastapi" />
-  </a>
-</p>
-
-
 
 ---
