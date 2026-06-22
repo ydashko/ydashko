@@ -8,8 +8,8 @@ I build things for the web.
 ## 👨🏻‍💼  About Me
 
 - **Frontend Developer** with Degree in Dentistry.
-- Currently exploring: **Next.js, Node.js, React Native, Vue, Nuxt**.
-- Additional facts: **I do sports, figure painting and read tech literature**.
+- Currently exploring: **Python, SQL, DjangoORM, Django, Django RESt Framework, FastAPI, SQLAlchemy**.
+- Additional facts: **I do figure painting**.
   
 ---
 
