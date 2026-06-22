@@ -16,9 +16,7 @@ I build things for the web.
 ## 🧰  Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind" />
-    
-    <img src="https://skillicons.dev/icons?i=mysql,python,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,,mysql,python,django,fastapi" />
   </a>
 </p>
 
